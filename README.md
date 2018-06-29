@@ -1,3 +1,3 @@
 # hello-world
 
-readme revision
+print('hello world!')
